@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mohamedoubro
 - 👀 I’m interested in Developement Web
 - 🌱 I’m currently learning Oracle,Java,Spring,JEE
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/mohamedoubro/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedoubro/)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
