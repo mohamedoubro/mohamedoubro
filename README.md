@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohamedoubro
-- 👀 I’m interested in Developement Web
+- 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning Oracle,Java,Spring,JEE
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedoubro/)
 
